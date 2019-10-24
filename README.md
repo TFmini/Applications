@@ -6,7 +6,7 @@
 
 - [3、The-Application-for-Car-Obstacle-Avoidance-with-TFmini-and-Servo](https://github.com/TFmini/Applications/tree/master/3%E3%80%81The-Application-for-Car-Obstacle-Avoidance-with-TFmini-and-Servo)
 
-- [4、PPT-Switching-With-Two-TFmini-Plus]（https://github.com/TFmini/Applications/tree/master/4%E3%80%81PPT-Switching-With-Two-TFmini-Plus）
+- [4、PPT-Switching-With-Two-TFmini-Plus](https://github.com/TFmini/Applications/tree/master/4%E3%80%81PPT-Switching-With-Two-TFmini-Plus)
 
 - [5、the-Instruction-with-TFmini-for-Avoiding-Car-Break-During-Passing-Through-the-Barrier-Gate](https://github.com/TFmini/Applications/blob/master/4%E3%80%81the-Instruction-with-TFmini-for-Avoiding-Car-Break-During-Passing-Through-the-Barrier-Gate.pdf)
 
